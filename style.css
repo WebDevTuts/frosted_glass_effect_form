@@ -74,3 +74,8 @@ input[type="submit"] {
   color: #FFF;
   cursor: pointer;
 }
+
+span a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}

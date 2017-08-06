@@ -45,3 +45,9 @@ form {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+form img {
+  width: 120px;
+  height: 120px;
+  border-radius: 100%;
+}
